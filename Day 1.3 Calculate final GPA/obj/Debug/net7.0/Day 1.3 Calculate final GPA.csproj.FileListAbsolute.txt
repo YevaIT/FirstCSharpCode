@@ -1,0 +1,14 @@
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\bin\Debug\net7.0\Day 1.3 Calculate final GPA.exe
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\bin\Debug\net7.0\Day 1.3 Calculate final GPA.deps.json
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\bin\Debug\net7.0\Day 1.3 Calculate final GPA.runtimeconfig.json
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\bin\Debug\net7.0\Day 1.3 Calculate final GPA.dll
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\bin\Debug\net7.0\Day 1.3 Calculate final GPA.pdb
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\obj\Debug\net7.0\Day 1.3 Calculate final GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\obj\Debug\net7.0\Day 1.3 Calculate final GPA.AssemblyInfoInputs.cache
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\obj\Debug\net7.0\Day 1.3 Calculate final GPA.AssemblyInfo.cs
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\obj\Debug\net7.0\Day 1.3 Calculate final GPA.csproj.CoreCompileInputs.cache
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\obj\Debug\net7.0\Day 1.3 Calculate final GPA.dll
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\obj\Debug\net7.0\refint\Day 1.3 Calculate final GPA.dll
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\obj\Debug\net7.0\Day 1.3 Calculate final GPA.pdb
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\obj\Debug\net7.0\Day 1.3 Calculate final GPA.genruntimeconfig.cache
+C:\Users\yevheniia.zhygalova\OneDrive - SIEMENSGAMESA\Documents\Mercantec\FirstCSharpCode\Day 1.3 Calculate final GPA\obj\Debug\net7.0\ref\Day 1.3 Calculate final GPA.dll
